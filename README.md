@@ -1,1 +1,1 @@
-# stroke-predictor
+# cardiac-ml
